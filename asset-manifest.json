@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pyaesoneko-portfolio/static/css/main.4cb4abc7.css",
+    "main.js": "/pyaesoneko-portfolio/static/js/main.183f902e.js",
+    "static/media/Me.jpeg": "/pyaesoneko-portfolio/static/media/Me.835e850813ff04c48fc8.jpeg",
+    "index.html": "/pyaesoneko-portfolio/index.html",
+    "main.4cb4abc7.css.map": "/pyaesoneko-portfolio/static/css/main.4cb4abc7.css.map",
+    "main.183f902e.js.map": "/pyaesoneko-portfolio/static/js/main.183f902e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb4abc7.css",
+    "static/js/main.183f902e.js"
+  ]
+}
