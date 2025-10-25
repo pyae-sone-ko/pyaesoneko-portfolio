@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.logo {
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+
+.logo span {
+  color: #00c3ff;
+}
+
+nav a {
+  margin: 0 15px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #00c3ff;
+}
